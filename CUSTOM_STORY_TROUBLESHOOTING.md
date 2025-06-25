@@ -13,7 +13,7 @@ The custom story generation feature uses Google's Gemini AI API to create person
 2. Click on "Secrets" tab in the left sidebar  
 3. Add a new secret with:
    - Key: `GEMINI_API_KEY`
-   - Value: `AIzaSyCLhHtcolcJMKk4Qw-xOPwnWpiqmyI2zX0`
+   - Value: ``
 4. Save the secret
 5. Restart the application
 
